@@ -1,0 +1,13 @@
+# Java Compiled class file
+*.class
+classes/
+
+# Java Package files
+*.jar
+*.war
+
+# Eclipse project files
+.settings/
+
+# Eclipse output files
+bin/
