@@ -10,8 +10,6 @@ import org.slf4j.LoggerFactory;
 @Controller
 public class HelloController {
 
-	//private static final Logger logger = LoggerFactory.getLogger(HelloController.class);
-	
 	@RequestMapping(value = "/hello", method = RequestMethod.GET)
 	public String printHello(ModelMap model)
 	{
