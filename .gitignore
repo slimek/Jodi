@@ -11,3 +11,6 @@ classes/
 
 # Eclipse output files
 bin/
+
+# Maven output files
+target/
