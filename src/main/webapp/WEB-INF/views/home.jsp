@@ -17,5 +17,7 @@
 		<a href="hello">Hello</a>
 	</li>
 </ul>
+<h2>Welcome Image</h2>
+<img src="resources/coffee-book.jpg" width="600px" />
 </body>
 </html>
