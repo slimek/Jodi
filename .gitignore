@@ -14,3 +14,6 @@ bin/
 
 # Maven output files
 target/
+
+# Secret files, which should not be committed into Git
+secret.properties
